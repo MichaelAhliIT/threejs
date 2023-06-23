@@ -1,5 +1,3 @@
-import About from './About'
-
 
 const Navbar = () =>{
     return(
