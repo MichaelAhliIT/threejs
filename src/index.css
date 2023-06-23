@@ -2,4 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base{
+    @font-face {
+        font-family: "Karasha";
+        src: url('/public/fonts/Karasha.otf');
+    }
+    @font-face {
+        font-family: "Spicy";
+        src: url('/public/fonts/Spicy Style.otf');
+    }
+}
+
+
 

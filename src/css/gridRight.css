@@ -1,0 +1,19 @@
+.GridContainerRight{
+    position: static;
+    width: 800px;
+    height: 40px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+
+.GridContainerRight .element{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    background: white;
+    opacity: 0.05;
+    scale: 0.5;
+}

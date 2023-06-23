@@ -7,7 +7,7 @@ Source: https://sketchfab.com/3d-models/samurai-girl-c66dcb7f7e8e4be8aed02f9023e
 Title: SAMURAI GIRL
 */
 
-import React, { useRef } from 'react'
+import React, { useRef, useState } from 'react'
 import { useGLTF } from '@react-three/drei'
 
 export default function Model(props) {
